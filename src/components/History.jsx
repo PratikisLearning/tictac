@@ -23,5 +23,3 @@ const History = ({ history, moveTo, currentMove }) => {
     </ul>
   );
 };
-
-export default History;
